@@ -1,27 +1,27 @@
 [
   {
-    "name": "NTHU API",
+    "name": "NTHU Data API by NTHUSA",
     "url": "https://api.nthusa.tw",
     "icon": "https://icons.duckduckgo.com/ip3/api.nthusa.tw.ico",
-    "slug": "nthu-api",
+    "slug": "nthu-data-api-by-nthusa",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 791,
-    "timeDay": 791,
-    "timeWeek": 791,
-    "timeMonth": 791,
-    "timeYear": 791,
+    "time": 809,
+    "timeDay": 809,
+    "timeWeek": 809,
+    "timeMonth": 809,
+    "timeYear": 809,
     "dailyMinutesDown": {}
   },
   {
-    "name": "NTHU-SA Official Website",
-    "url": "https://nthusa.site.nthu.edu.tw",
-    "icon": "https://icons.duckduckgo.com/ip3/nthusa.site.nthu.edu.tw.ico",
-    "slug": "nthu-sa-official-website",
+    "name": "國立清華大學 eeclass 數位學習平台",
+    "url": "https://eeclass.nthu.edu.tw/",
+    "icon": "https://icons.duckduckgo.com/ip3/eeclass.nthu.edu.tw.ico",
+    "slug": "eeclass",
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
@@ -34,7 +34,27 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-24": 3
+      "2024-07-24": 2
+    }
+  },
+  {
+    "name": "清華 eLearn 數位學習平台",
+    "url": "https://elearn.nthu.edu.tw/",
+    "icon": "https://icons.duckduckgo.com/ip3/elearn.nthu.edu.tw.ico",
+    "slug": "e-learn",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-07-24": 2
     }
   }
 ]
