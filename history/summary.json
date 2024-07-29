@@ -4,18 +4,20 @@
     "url": "https://api.nthusa.tw",
     "icon": "https://icons.duckduckgo.com/ip3/api.nthusa.tw.ico",
     "slug": "nthu-data-api-by-nthusa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 854,
-    "timeDay": 797,
-    "timeWeek": 854,
-    "timeMonth": 854,
-    "timeYear": 854,
-    "dailyMinutesDown": {}
+    "time": 795,
+    "timeDay": 619,
+    "timeWeek": 795,
+    "timeMonth": 795,
+    "timeYear": 795,
+    "dailyMinutesDown": {
+      "2024-07-29": 0
+    }
   },
   {
     "name": "國立清華大學 eeclass 數位學習平台",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-29": 2,
+      "2024-07-29": 418,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
@@ -59,7 +61,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-29": 2,
+      "2024-07-29": 418,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
