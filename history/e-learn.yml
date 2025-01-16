@@ -1,7 +1,7 @@
 url: https://elearn.nthu.edu.tw/
-status: up
-code: 200
-responseTime: 912
-lastUpdated: 2025-01-16T06:55:40.115Z
+status: down
+code: 503
+responseTime: 2258
+lastUpdated: 2025-01-16T07:19:58.232Z
 startTime: 2024-07-24T06:36:00.896Z
 generator: Upptime <https://github.com/upptime/upptime>
