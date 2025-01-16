@@ -151,17 +151,17 @@
     "url": "https://elearn.nthu.edu.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/elearn.nthu.edu.tw.ico",
     "slug": "e-learn",
-    "status": "up",
-    "uptime": "99.12%",
-    "uptimeDay": "45.32%",
+    "status": "down",
+    "uptime": "99.13%",
+    "uptimeDay": "45.93%",
     "uptimeWeek": "79.44%",
     "uptimeMonth": "95.00%",
-    "uptimeYear": "99.12%",
-    "time": 1686,
-    "timeDay": 1454,
-    "timeWeek": 1548,
-    "timeMonth": 1567,
-    "timeYear": 1686,
+    "uptimeYear": "99.13%",
+    "time": 1687,
+    "timeDay": 1462,
+    "timeWeek": 1551,
+    "timeMonth": 1569,
+    "timeYear": 1687,
     "dailyMinutesDown": {
       "2025-01-16": 479,
       "2025-01-15": 677,
@@ -181,8 +181,7 @@
       "2024-12-26": 7,
       "2024-12-08": 8,
       "2024-12-03": 8,
-      "2024-12-02": 9,
-      "2024-11-29": 10
+      "2024-12-02": 9
     }
   }
 ]
