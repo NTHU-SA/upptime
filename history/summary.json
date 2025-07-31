@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 793,
-    "timeDay": 824,
-    "timeWeek": 952,
-    "timeMonth": 896,
+    "timeDay": 795,
+    "timeWeek": 923,
+    "timeMonth": 893,
     "timeYear": 793,
     "dailyMinutesDown": {
       "2025-05-30": 27,
@@ -23,8 +23,7 @@
       "2025-03-03": 7,
       "2025-02-14": 9,
       "2024-08-11": 9,
-      "2024-08-01": 18,
-      "2024-07-31": 11
+      "2024-08-01": 18
     }
   },
   {
@@ -33,16 +32,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/eeclass.nthu.edu.tw.ico",
     "slug": "eeclass",
     "status": "up",
-    "uptime": "72.09%",
+    "uptime": "72.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "73.22%",
-    "time": 3966,
-    "timeDay": 8002,
-    "timeWeek": 4472,
-    "timeMonth": 4271,
-    "timeYear": 3966,
+    "uptimeYear": "73.49%",
+    "time": 3964,
+    "timeDay": 3247,
+    "timeWeek": 4403,
+    "timeMonth": 4237,
+    "timeYear": 3964,
     "dailyMinutesDown": {
       "2025-06-02": 78,
       "2025-06-01": 251,
@@ -161,8 +160,7 @@
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
-      "2024-08-01": 1440,
-      "2024-07-31": 1440
+      "2024-08-01": 1440
     }
   },
   {
@@ -177,9 +175,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.51%",
     "time": 1902,
-    "timeDay": 5949,
-    "timeWeek": 2176,
-    "timeMonth": 2543,
+    "timeDay": 1296,
+    "timeWeek": 2134,
+    "timeMonth": 2502,
     "timeYear": 1902,
     "dailyMinutesDown": {
       "2025-04-30": 10,
