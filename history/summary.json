@@ -31,11 +31,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/eeclass.nthu.edu.tw.ico",
     "slug": "eeclass",
     "status": "up",
-    "uptime": "73.51%",
+    "uptime": "73.52%",
     "uptimeDay": "93.59%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "78.73%",
+    "uptimeYear": "78.74%",
     "time": 4081,
     "timeDay": 5856,
     "timeWeek": 5301,
@@ -149,16 +149,16 @@
     "url": "https://elearn.nthu.edu.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/elearn.nthu.edu.tw.ico",
     "slug": "e-learn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "95.38%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "95.37%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.53%",
     "time": 1919,
-    "timeDay": 2139,
-    "timeWeek": 2052,
-    "timeMonth": 2287,
+    "timeDay": 2038,
+    "timeWeek": 2010,
+    "timeMonth": 2265,
     "timeYear": 1919,
     "dailyMinutesDown": {
       "2025-08-19": 67,
@@ -186,7 +186,7 @@
       "2025-01-20": 31,
       "2025-01-19": 910,
       "2025-01-18": 989,
-      "2025-01-17": 188
+      "2025-01-17": 176
     }
   }
 ]
