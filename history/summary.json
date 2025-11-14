@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.nthusa.tw.ico",
     "slug": "nthu-data-api-by-nthusa",
     "status": "down",
-    "uptime": "92.86%",
+    "uptime": "92.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "90.67%",
+    "uptimeYear": "90.57%",
     "time": 805,
     "timeDay": 847,
     "timeWeek": 771,
     "timeMonth": 730,
     "timeYear": 830,
     "dailyMinutesDown": {
-      "2025-11-14": 2,
+      "2025-11-14": 485,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
@@ -67,10 +67,10 @@
     "url": "https://eeclass.nthu.edu.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/eeclass.nthu.edu.tw.ico",
     "slug": "eeclass",
-    "status": "up",
-    "uptime": "78.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "78.33%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.87%",
     "time": 4092,
@@ -79,6 +79,7 @@
     "timeMonth": 3864,
     "timeYear": 4122,
     "dailyMinutesDown": {
+      "2025-11-14": 1,
       "2025-10-19": 9,
       "2025-09-19": 42,
       "2025-08-31": 12,
@@ -111,9 +112,9 @@
     "url": "https://elearn.nthu.edu.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/elearn.nthu.edu.tw.ico",
     "slug": "e-learn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.60%",
@@ -123,6 +124,7 @@
     "timeMonth": 1520,
     "timeYear": 1880,
     "dailyMinutesDown": {
+      "2025-11-14": 0,
       "2025-10-19": 9,
       "2025-09-19": 21,
       "2025-08-31": 11,
@@ -150,7 +152,7 @@
       "2025-01-28": 10,
       "2025-01-20": 31,
       "2025-01-19": 910,
-      "2025-01-18": 684
+      "2025-01-18": 675
     }
   }
 ]
